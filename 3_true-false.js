@@ -2,7 +2,7 @@
 Falsy:
 false
 0
-empty srting
+empty string
 undefined
 null
 NaN
